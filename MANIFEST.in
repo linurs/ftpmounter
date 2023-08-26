@@ -1,0 +1,1 @@
+include Doxyfile ftpmounter.1 *.gif *.png *.ico README.md ftpmounter.spec ftpmounter.desktop

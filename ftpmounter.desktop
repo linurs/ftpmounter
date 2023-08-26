@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ftpmounter
+Comment=mounter for ftp
+Exec=ftpmounter
+Icon=ftpmounter
+Terminal=false
+Type=Application
+Categories=System;
+StartupNotify=true
